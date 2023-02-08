@@ -1,2 +1,2 @@
 # crossbrowser-testing
-Testng Parameter to acheive cross browser testing
+TestNG Parameter to acheive cross browser testing
